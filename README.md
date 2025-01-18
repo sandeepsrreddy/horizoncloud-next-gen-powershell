@@ -25,4 +25,4 @@ Import the module:
 <!-- end list -->
 
 ```powershell
-Install-Module -Name Import-Module "hcs-nextgen.psm1" -Force
+Import-Module "hcs-nextgen.psm1" -Force
